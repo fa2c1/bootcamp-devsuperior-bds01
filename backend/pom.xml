@@ -10,10 +10,10 @@
 		<!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.devsuperior</groupId>
-	<artifactId>dscatalog</artifactId>
+	<artifactId>crudclientes</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dscatalog</name>
-	<description>Demo project for Spring Boot</description>
+	<name>crudclientes</name>
+	<description>Exercicio 01 CRUD</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
